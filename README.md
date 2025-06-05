@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 - Email: your.email@example.com
 - LinkedIn: [링크](https://linkedin.com/in/yourprofile)
 
+<!--
 
 자바
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-
 스프링
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
@@ -156,3 +156,4 @@ Selenium
 
 Klaytn
 <img src="https://img.shields.io/badge/Klaytn-6F6558?style=for-the-badge&logo=Klaytn&logoColor=white">
+-->
