@@ -15,6 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 👋 안녕하세요! 일본에서 일하는 개발자입니다
+현재 일본에서 IT 회사에 재직 중이며, 주로 백엔드 개발 및 시스템 설계를 담당하고 있습니다.
+
+### 💼 기술 스택
+- **언어**: JavaScript / TypeScript / Python / Java
+- **프레임워크**: React / Node.js / Spring Boot
+- **데이터베이스**: MySQL / PostgreSQL / MongoDB
+- **도구 및 협업**: Git / Docker / Jira / GitHub Actions
+
+### 🛠️ 주요 프로젝트
+| 프로젝트명 | 설명 | 기술스택 |
+|------------|------|-----------|
+| [MyBlog](https://github.com/username/myblog) | 개인 블로그 개발 프로젝트 | Next.js, Firebase |
+| [ChatBot](https://github.com/username/chatbot-ai) | 간단한 AI 챗봇 서비스 | Python, Flask, GPT API |
+
+### 🌱 현재 배우는 것
+- Kubernetes
+- TypeScript 심화
+- 일본어 비즈니스 커뮤니케이션
+
+### 📫 연락처
+- Email: your.email@example.com
+- LinkedIn: [링크](https://linkedin.com/in/yourprofile)
+
+
 자바
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 
