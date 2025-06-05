@@ -1,6 +1,6 @@
- 안녕하세요 👋
- こんにちは 👋
- Hi there 👋
+ 안녕하세요 👋 <br>
+ こんにちは 👋 <br>
+ Hi there 👋 <br>
 
 <!--
 **TENGEN-PARK/TENGEN-PARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 안녕하세요! 일본에서 일하는 개발자입니다
-현재 일본에서 IT 회사에 재직 중이며, 주로 백엔드 개발 및 시스템 설계를 담당하고 있습니다.
+## 👋 안녕하세요! 일본에서 일하는 한국인 개발자입니다
+현재 일본 도쿄에서 IT 회사에 재직 중이며, 주로 백엔드 개발 및 시스템 설계를 담당하고 있습니다.
 
 ### 💼 기술 스택
 - **언어**: JavaScript / TypeScript / Python / Java
