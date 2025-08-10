@@ -8,31 +8,10 @@ JavaとSpring Bootを中心に、安定性・拡張性の高いシステム構�
 
 ### 💼 スキルセット
 
-- **言語**:  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="24" height="24" /> JavaScript /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="24" height="24" /> TypeScript /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="24" height="24" /> Python  
-
-- **フレームワーク**:  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="24" height="24" /> Spring Boot /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="24" height="24" /> React /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="24" height="24" /> Node.js /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask" width="24" height="24" /> Flask  
-
-- **データベース**:  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="24" height="24" /> MySQL /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="24" height="24" /> PostgreSQL /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="24" height="24" /> MongoDB  
-
-- **インフラ・ツール**:  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="24" height="24" /> Docker /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="24" height="24" /> Kubernetes /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/amazon-aws/amazon-aws.png" alt="AWS" width="24" height="24" /> AWS /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github-actions/github-actions.png" alt="GitHub Actions" width="24" height="24" /> GitHub Actions /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/jira/jira.png" alt="Jira" width="24" height="24" /> Jira /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis" width="24" height="24" /> Redis /  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/apache-kafka/apache-kafka.png" alt="Kafka" width="24" height="24" /> Kafka  
-
+- **言語**: Java / JavaScript / TypeScript / Python  
+- **フレームワーク**: Spring Boot / React / Node.js / Flask  
+- **データベース**: MySQL / PostgreSQL / MongoDB  
+- **インフラ・ツール**: Docker / Kubernetes / AWS / GitHub Actions / Jira / Redis / Kafka  
 
 ---
 
