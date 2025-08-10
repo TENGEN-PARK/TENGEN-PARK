@@ -7,6 +7,8 @@ JavaとSpring Bootを中心に、安定性・拡張性の高いシステム構�
 ---
 
 ### 💼 スキルセット
+![Java 로고](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png)
+
 - **言語**: Java / JavaScript / TypeScript / Python  
 - **フレームワーク**: Spring Boot / React / Node.js / Flask  
 - **データベース**: MySQL / PostgreSQL / MongoDB  
