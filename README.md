@@ -14,6 +14,14 @@ JavaとSpring Bootを中心に、安定性・拡張性の高いシステム構�
 
 ---
 
+### 💻 開発環境・ツール
+- IDE / エディタ: Eclipse, Visual Studio Code
+- バージョン管理: Git, GitHub
+- CI/CD: GitHub Actions, Jenkins
+- コンテナ: Docker, Kubernetes
+
+---
+
 ### 🛠️ 代表プロジェクト
 | プロジェクト名 | 説明 | 技術 | 詳細リンク |
 |----------------|------|------|------------|
