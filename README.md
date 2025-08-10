@@ -1,6 +1,5 @@
  안녕하세요 👋 <br>
  こんにちは 👋 <br>
- Hi there 👋 <br>
 
 <!--
 **TENGEN-PARK/TENGEN-PARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
