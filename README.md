@@ -1,29 +1,16 @@
  안녕하세요 👋 <br>
  こんにちは 👋 <br>
 
-<!--
-**TENGEN-PARK/TENGEN-PARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 はじめまして！日本で働く韓国人バックエンドエンジニアです
+現在、東京のIT企業に勤務しており、主にバックエンド開発およびシステム設計を担当しています。  
+JavaとSpring Bootを中心に、安定性・拡張性の高いシステム構築に携わっています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 👋 안녕하세요! 일본에서 일하는 한국인 개발자입니다
-현재 일본 도쿄에서 IT 회사에 재직 중이며, 주로 백엔드 개발 및 시스템 설계를 담당하고 있습니다.
-
-### 💼 기술 스택
-- **언어**: JavaScript / TypeScript / Python / Java
-- **프레임워크**: React / Node.js / Spring Boot
-- **데이터베이스**: MySQL / PostgreSQL / MongoDB
-- **도구 및 협업**: Git / Docker / Jira / GitHub Actions
+### 💼 スキルセット
+- **言語**: Java / JavaScript / TypeScript / Python  
+- **フレームワーク**: Spring Boot / React / Node.js / Flask  
+- **データベース**: MySQL / PostgreSQL / MongoDB  
+- **ツール・コラボレーション**: Git / Docker / Jira / GitHub Actions
 
 ### 🛠️ 주요 프로젝트
 | 프로젝트명 | 설명 | 기술스택 |
